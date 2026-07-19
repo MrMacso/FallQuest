@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2367382}
   - component: {fileID: 6485504}
   m_Layer: 0
-  m_Name: Base_Rounded_04
+  m_Name: 01_PitPiece_Base
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
